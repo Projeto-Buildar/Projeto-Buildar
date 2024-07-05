@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Projeto-Buildar/Projeto-Buildar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Buildar </h1>
 
-Here are some ideas to get you started:
+![Buildar](https://github.com/Projeto-Buildar/README.md/assets/168878406/52df3770-54cc-42d9-9465-1d3f8e47e83d)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <pre><i>“Habilidades para moldar, futuro para conquistar!! 🌟🌟🌟”</i></pre>
+</div>
+<div align="center">
+
+<h2>💜🤍Sobre nós🤍💜</h2>
+<p>A Buildar é uma plataforma que ajuda jovens a desenvolverem suas habilidades comportamentais (soft skills) 
+  de maneira gameficada e divertida, com o objetivo de prepará-los para a realidade do mercado de trabalho. 🎮💡 </p>
+
+Venha conhecer nossa [plataforma](https://buildar.vercel.app/).  
+
+</div>
