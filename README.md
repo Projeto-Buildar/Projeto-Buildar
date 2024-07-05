@@ -1,7 +1,7 @@
 
 <h1> Buildar </h1>
 
-![Buildar](https://github.com/Projeto-Buildar/README.md/assets/168878406/52df3770-54cc-42d9-9465-1d3f8e47e83d)
+![BuildarGithub](https://github.com/Projeto-Buildar/Projeto-Buildar/assets/168878406/230b65a4-0f6d-4af7-b60b-4c780066ecbc)
 
 <div align="center">
   <pre><i>“Habilidades para moldar, futuro para conquistar!! 🌟🌟🌟”</i></pre>
