@@ -14,4 +14,10 @@
 
 Venha conhecer nossa [plataforma](https://buildar.vercel.app/).  
 
+<h2>🏆 Membros da Equipe 🏆</h2>
+<div align="center">
+  <a href="https://github.com/Projeto-Buildar/buildar/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Projeto-Buildar/buildar" alt="Contribuidores do Projeto Buildar"/>
+  </a>
+</div>
 </div>
